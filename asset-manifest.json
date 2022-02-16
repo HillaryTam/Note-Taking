@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Note-Taking/static/js/main.c2fc7c40.js",
+    "index.html": "/Note-Taking/index.html",
+    "main.c2fc7c40.js.map": "/Note-Taking/static/js/main.c2fc7c40.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c2fc7c40.js"
+  ]
+}
